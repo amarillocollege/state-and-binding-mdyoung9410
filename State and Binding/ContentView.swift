@@ -24,6 +24,7 @@ struct ContentView: View {
                             .font(.system(size: 100, weight: .bold, design: .rounded))
                             .foregroundStyle(.white)
                     }
+                //fixed the issue
             }
             
         }
